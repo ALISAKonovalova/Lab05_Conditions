@@ -1,0 +1,17 @@
+C:\Users\alisa\Lab05_Conditions\GuessNumber\bin\Debug\net11.0\GuessNumber.exe
+C:\Users\alisa\Lab05_Conditions\GuessNumber\bin\Debug\net11.0\GuessNumber.deps.json
+C:\Users\alisa\Lab05_Conditions\GuessNumber\bin\Debug\net11.0\GuessNumber.runtimeconfig.json
+C:\Users\alisa\Lab05_Conditions\GuessNumber\bin\Debug\net11.0\GuessNumber.runtimeconfig.dev.json
+C:\Users\alisa\Lab05_Conditions\GuessNumber\bin\Debug\net11.0\GuessNumber.dll
+C:\Users\alisa\Lab05_Conditions\GuessNumber\bin\Debug\net11.0\GuessNumber.pdb
+C:\Users\alisa\Lab05_Conditions\GuessNumber\obj\Debug\net11.0\GuessNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alisa\Lab05_Conditions\GuessNumber\obj\Debug\net11.0\GuessNumber.AssemblyInfoInputs.cache
+C:\Users\alisa\Lab05_Conditions\GuessNumber\obj\Debug\net11.0\GuessNumber.AssemblyInfo.cs
+C:\Users\alisa\Lab05_Conditions\GuessNumber\obj\Debug\net11.0\GuessNumber.csproj.CoreCompileInputs.cache
+C:\Users\alisa\Lab05_Conditions\GuessNumber\obj\Debug\net11.0\GuessNumber.sourcelink.json
+C:\Users\alisa\Lab05_Conditions\GuessNumber\obj\Debug\net11.0\GuessNumber.dll
+C:\Users\alisa\Lab05_Conditions\GuessNumber\obj\Debug\net11.0\refint\GuessNumber.dll
+C:\Users\alisa\Lab05_Conditions\GuessNumber\obj\Debug\net11.0\GuessNumber.pdb
+C:\Users\alisa\Lab05_Conditions\GuessNumber\obj\Debug\net11.0\GuessNumber.genruntimeconfig.cache
+C:\Users\alisa\Lab05_Conditions\GuessNumber\obj\Debug\net11.0\ref\GuessNumber.dll
+C:\Users\alisa\Lab05_Conditions\GuessNumber\obj\Debug\net11.0\GuessNum.0E2CE3CB.Up2Date
